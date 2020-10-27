@@ -24,6 +24,8 @@ Você deverá usar a API do Spotify (https://developer.spotify.com/) para gerenc
 - O design, usabilidade fica a seu critério.
 - Pode ser utilizado design sistem prontos.
 - As APIS são gratuítas para utilizar.
+- O sistema deverá ter duas responsabilidades, gerenciar playlistas e indicar qual a melhor playlist para o clima atual na região do usuário
+- O usuário deve conseguir fazer login através de uma conta do spotify usando o Single Sign On do Spotify.
 
 
 ## O que será avaliado?
@@ -36,11 +38,13 @@ Você deverá usar a API do Spotify (https://developer.spotify.com/) para gerenc
 - Clareza do código
 - Responsividade da página
 - Usabilidade
+- Qualidade estética da interface desenvolvida
 
 ## O que devo entregar?
 
 Um repositório no github, deve ser público, com documentação e instrução de como executar a solução.
 
 ### Diferencial
+- Adicionar acessibilidade
 - Entregar com pipeline de continous integration usando Github Action, para garantir que os testes estão funcionando na Master.
 - Entregar imagem docker no docker hub
