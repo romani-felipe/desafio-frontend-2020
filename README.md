@@ -1,6 +1,6 @@
 # Desafio frontend
 
-Olá seja bem vindo ao desáfio técnico para vaga de desenvolvedor frontend da Wide Software.
+Olá seja bem vindo ao desafio técnico para vaga de desenvolvedor frontend da Wide Software.
 
 ## O desafio
 
