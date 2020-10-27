@@ -47,4 +47,4 @@ Um repositório no github, deve ser público, com documentação e instrução d
 ### Diferencial
 - Adicionar acessibilidade
 - Entregar com pipeline de continous integration usando Github Action, para garantir que os testes estão funcionando na Master.
-- Entregar imagem docker no docker hub
+- Entregar imagem docker pública no docker hub
