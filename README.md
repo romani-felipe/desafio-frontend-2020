@@ -14,6 +14,7 @@ Olá seja bem vindo ao desáfio técnico para vaga de desenvolvedor frontend da 
 - Manutenibilidade
 - Clareza do código
 - Responsividade da página
+- Usabilidade
 
 ## O que devo entregar?
 
